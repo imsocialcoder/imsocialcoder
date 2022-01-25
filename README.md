@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imsocialcoder
-- 👀 I’m interested in new software system
-- 🌱 I’m currently learning Ruby
+- 👀 I’m interested in new job abroad
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on new projects
 
 
