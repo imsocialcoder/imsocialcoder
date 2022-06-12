@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imsocialcoder
 - 👀 I’m interested in new position abroad
-- 🌱 I’m currently learning Spring Boot & Go
+- 🌱 I’m currently learning Spring Boot, Angular & Go
 - 💞️ I’m looking to collaborate on new projects
 
 
