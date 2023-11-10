@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imsocialcoder
-- 🌱 I’m currently learning Spring Boot, Angular & Kotlin
+- 🌱 I’m currently learning Kotlin & Angular
 
 
 <!---
